@@ -1,3 +1,5 @@
 streamlit
 requests
 st
+cohere
+gtts
